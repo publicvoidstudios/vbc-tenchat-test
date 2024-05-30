@@ -25,7 +25,7 @@ Content-Type': 'application/json'
 
 ## Website
 
-This project was published on Netlify. You can check it here []().
+This project was published on Netlify. You can check _**live version here:**_ [**vbc-tenchat-test-vlad-pak.netlify.app**](https://vbc-tenchat-test-vlad-pak.netlify.app/).
 
 ## Setup
 
